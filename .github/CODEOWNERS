@@ -1,6 +1,6 @@
 # Global owner — required reviewer for every PR
-*   @YOUR_ORG/backend-team
+#*   @YOUR_ORG/backend-team
 
 # Secrets and infra require an extra reviewer
-.env.example        @YOUR_ORG/security
-docker-compose*.yml @YOUR_ORG/infrastructure
+#.env.example        @YOUR_ORG/security
+#docker-compose*.yml @YOUR_ORG/infrastructure
